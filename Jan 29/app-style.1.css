@@ -1,0 +1,57 @@
+*
+{
+    box-sizing:border-box;
+}
+h2{
+    text-align:center;
+}
+ul {
+    list-style-type: none;
+    margin-bottom:0px; 
+  }
+img
+{
+    width:80px;
+
+}
+
+form
+{
+
+    width: 500px;;
+   
+    margin: 50px auto;
+    padding: 16px;
+}
+
+input
+{
+    width:100%;
+    margin:5px 0px 20px 0px;
+    padding:5px;
+}
+label
+{
+  padding: 15px;
+  margin-bottom: 5px;
+}
+.button
+{
+    
+    margin: 5px;;
+    padding: 15px;
+}
+
+body { 
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+  
+  }
+
+fieldset
+{
+    background-color:whitesmoke;
+    
+}
